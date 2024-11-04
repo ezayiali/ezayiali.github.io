@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ezayiali.github.io/GiP/sitemap_index.txt
+Sitemap: https://ezayiali.github.io/OUn/sitemap_index.txt
+Sitemap: https://ezayiali.github.io/kqh/sitemap_index.txt
+Sitemap: https://ezayiali.github.io/pWS/sitemap_index.txt
